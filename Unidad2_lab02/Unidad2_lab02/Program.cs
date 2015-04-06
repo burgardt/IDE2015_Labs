@@ -10,7 +10,7 @@ namespace Unidad2_lab02
     {
         static void Main(string[] args)
         {
-            System.Console.Write("holis");
+            System.Console.WriteLine("hola como andas");
         }
     }
 }
