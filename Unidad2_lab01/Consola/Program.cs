@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unidad1_Lab01
+namespace Consola
 {
     class Program
     {
         static void Main(string[] args)
         {
-            System.Console.Write("Hola mundo");
+            System.Console.Write("esta linea va a dar error");
         }
     }
 }
